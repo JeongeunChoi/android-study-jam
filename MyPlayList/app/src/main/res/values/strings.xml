@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyPlayList</string>
+    <string name="이무진">신호등</string>
+    <string name="잔나비">주저하는 연인들을 위해</string>
+    <string name="SG워너비">라라라</string>
+    <string name="song">노래</string>
+    <string name="singer">가수</string>
+    <string name="add">+</string>
+</resources>
